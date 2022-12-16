@@ -1,0 +1,30 @@
+{
+  "name": "ztl-bilagsky",
+  "version": "1.0.5",
+  "description": "Ztl package - Nodejs",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phuc99bd/ztl-bilagsky.git"
+  },
+  "keywords": [
+    "queue",
+    "express",
+    "express-queue",
+    "queue-api",
+    "async",
+    "concurrency",
+    "asynchronous",
+    "task",
+    "concurrent"
+  ],
+  "author": "PhucVo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phuc99bd/ztl-bilagsky.giti/issues"
+  },
+  "homepage": "https://github.com/Phuc99bd/ztl-bilagsky.git#readme"
+}
