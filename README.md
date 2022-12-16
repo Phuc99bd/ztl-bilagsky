@@ -2,10 +2,8 @@
 
 #### Node API adapter in ECMAScript 2015 (ES6)
 
-[![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/ztl-bilagsky) [![npm](https://cafedev.vn/wp-content/uploads/2020/07/cafedev_queue_c.png)](https://www.npmjs.com/package/ztl-bilagsky)
-[![npm](https://docs.ztlpay.io/ztl-api.html#section/Authentication)]
 ## Table of Contents
-
+- [ZTL] (https://docs.ztlpay.io/ztl-api.html#section/Authentication)
 - [Installation](#installation)
 - [How to start](#how-to-start)
 - [How to using in api](#how-to-using-in-api)
